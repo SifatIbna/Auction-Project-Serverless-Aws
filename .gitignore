@@ -1,0 +1,5 @@
+node_modules
+.serverless
+secret.pem
+.webpack
+.DS_Store
